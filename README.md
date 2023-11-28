@@ -2,7 +2,11 @@
 
 web developer in development.
 
-rock & roll
+media designer as hobbyist
+
+rock & roll and other music
+
+
 
 <!---
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
