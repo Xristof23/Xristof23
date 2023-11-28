@@ -4,9 +4,10 @@ web developer in development.
 
 media designer as hobbyist
 
-rock & roll and other music
+likes harder rock and other good music
 
-
+smalltown guy from Hassia
+now living in exile at the Rheine
 
 <!---
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
