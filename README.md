@@ -17,4 +17,4 @@ Web developer in development.
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[^1]: There are only two kinds of music: good & bad. ;)
+[^1]: There are only two kinds of music: good & bad. :;):
