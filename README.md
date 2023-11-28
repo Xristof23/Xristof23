@@ -3,8 +3,9 @@
 I'm Christof.
 
 Web developer in development.
-
-
+<!---
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Xristof23.visitor-badge&left_color=green&right_color=red)
+--->
 - media designer as a hobbyist.
 
 - likes, writes and plays harder rock and other good music.[^1]
