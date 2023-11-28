@@ -1,14 +1,16 @@
-# Christof Röhl
+# Hi 
 
-web developer in development.
+I'm Christof.
 
-media designer as hobbyist.
+Web developer in development.
+
+Media designer as hobbyist.
 
 likes harder rock and other good music.
 
-smalltown guy from Hassia.
+Smalltown guy from Hassia.
 
-now living in exile at the Rheine.
+now living in a somewhat larger city at the Rheine.
 
 <!---
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
