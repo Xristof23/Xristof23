@@ -11,7 +11,7 @@ Web developer in development.
 
 - Smalltown guy from Hassia, now living in a somewhat larger city at the Rheine.
 
-![My_Office](CTasse_k.jpg)
+![My_Office](CTasse_tiny.jpg)
 
 <!---
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
