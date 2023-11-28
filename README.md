@@ -4,13 +4,11 @@ I'm Christof.
 
 Web developer in development.
 
-Media designer as hobbyist.
+- Media designer as hobbyist.
 
-likes harder rock and other good music.
+- likes and plays harder rock and other good music.
 
-Smalltown guy from Hassia.
-
-now living in a somewhat larger city at the Rheine.
+- Smalltown guy from Hassia, now living in a somewhat larger city at the Rheine.
 
 <!---
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
