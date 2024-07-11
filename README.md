@@ -6,8 +6,8 @@ Web developer.
 <!---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Xristof23.visitor-badge&left_color=black&right_color=red)
 --->
-- passionate web devoloper
-
+- coding projects with a passion and html css javascript react next.js ...
+  
 - likes, writes, plays and records music
 
 - smalltown guy from Hassia, now living in the Rheinland
