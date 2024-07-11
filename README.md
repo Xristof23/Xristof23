@@ -6,7 +6,7 @@ Web developer.
 <!---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Xristof23.visitor-badge&left_color=black&right_color=red)
 --->
-- passionate wen devoloper with interests in logic and algorythm
+- passionate web devoloper
 
 - likes, writes, plays and records music
 
