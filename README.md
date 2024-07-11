@@ -2,15 +2,15 @@
 
 I'm Christof.
 
-Web developer in development.
+Web developer.
 <!---
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Xristof23.visitor-badge&left_color=black&right_color=red)
 --->
-- media designer as a hobbyist.
+- passionate wen devoloper with interests in logic and algorythm
 
-- likes, writes and plays harder rock and other good music.[^1]
+- likes, writes, plays and records music
 
-- smalltown guy from Hassia, now living in a somewhat larger city[^2] at the Rheine.
+- smalltown guy from Hassia, now living in the rheinland
 
 ![My_Office](CTasse_tiny.jpg)
 
@@ -18,6 +18,5 @@ Web developer in development.
 Xristof23/Xristof23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[^1]: There are only two kinds of music:  	~~good & bad~~ rock & roll.
-[^2]: Bonn.
+
 ---
