@@ -10,7 +10,7 @@ Web developer.
 
 - likes, writes, plays and records music
 
-- smalltown guy from Hassia, now living in the rheinland
+- smalltown guy from Hassia, now living in the Rheinland
 
 ![My_Office](CTasse_tiny.jpg)
 
